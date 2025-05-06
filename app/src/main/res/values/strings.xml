@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency-verter</string>
+    <string name="es_welcome" translatable="false">Bienvenido a Currency-verter!</string>
+    <string name="en_welcome">Welcome to Currency-verter!</string>
+    <string name="es_convert">Convertir a</string>
+    <string name="en_convert">Convert to</string>
+    <string name="es_quantity">Cantidad en MXN</string>
+    <string name="en_quantity">MXN Quantity</string>
+    <string name="es_currency_desc">Moneda</string>
+    <string name="en_currency_desc">Currency</string>
+</resources>
